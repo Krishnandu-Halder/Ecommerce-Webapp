@@ -49,9 +49,6 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 
-# Tailwind CSS
-tailwind.config.js
-postcss.config.js
 
 # optional: OS-specific
 Thumbs.db
