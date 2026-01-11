@@ -2,8 +2,8 @@ import React from 'react'
 
 const LoginSignUp = () => {
   return (
-    <div id='loginsignup' className=' w-full h-[80vh] bg-[#fce3fe] pt-[100px] '>
-      <div id="loginsignup-container" className=' w-[580px] h-[670px] bg-white m-auto pt-[40px] pb-[40px] px-[60px]  '>
+    <div id='loginsignup' className=' w-full h-[80vh] bg-[#fce3fe] pt-[10px] pb-[800px] '>
+      <div id="loginsignup-container" className=' w-[580px] h-[670px] bg-white m-auto pt-[40px] pb-[500px] px-[60px]  '>
         <h1 className='my-[20px] mx-[0px] text-3xl'>Sign Up</h1>
         <div id="loginsignup-fields" className='flex flex-col gap-[29px] mt-[30px] '>
           <input className='h-[72px] w-full pl-[20px] border-[1px] border-solid border-[#c9c9c9] outline-none text-[#5c5c5c] text-[18px] ' type="text" placeholder='Your Name' />

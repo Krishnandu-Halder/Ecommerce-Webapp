@@ -7,7 +7,7 @@ const Popular = () => {
     <div id="popular" className="flex flex-col pb-[220px] items-center gap-[10px] h-90vh">
       <h1 className="text-[#171717] text-[50px] font-semibold ">POPULAR IN WOMEN</h1>
       <hr className=" w-[200px] h-[6px] rounded-[10px] bg-[#252525] "/>
-      <div id="popular-item" className=" flex mt-[50px] gap-[30px] ">
+      <div id="popular-item" className=" flex mt-[50px] pl-[50px] pr-[50px] gap-[30px] ">
         {data_product.map((item,i) => {
           return (
             <Item
