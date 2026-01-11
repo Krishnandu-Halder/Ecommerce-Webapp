@@ -28,6 +28,7 @@ const Navbar = () => {
           SHOPPER
         </p>
       </div>
+      <div></div>
       <ul
         id="nav-menu"
         className="flex items-center text-[#626262] space-x-12 text-lg"
